@@ -1,0 +1,1 @@
+const canvas=document.getElementById("game");const ctx=canvas.getContext("2d");ctx.fillStyle="#1e293b";ctx.fillRect(0,0,1280,720);ctx.fillStyle="white";ctx.font="40px Arial";ctx.fillText("YALL KNOW - ULTIMATE BUILD",300,120);ctx.fillText("Miami Fight Engine Placeholder",280,220);
